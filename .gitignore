@@ -2,3 +2,7 @@ env
 "Icon\r"
 notebooks
 data-scraped
+
+
+#sudo lsof -i :7860
+#sudo kill -9 <PID>
